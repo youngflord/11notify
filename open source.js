@@ -4,7 +4,7 @@ const prefix = '-' ;
 const Stripe = require('stripe');
 const stripe = Stripe('[KEY_HIDDEN]');
 //Discord token
-client.login('ODMwNDk2NDUxMjc2NDM5NjAy.YHHiFw.in0pwksTYm2WZcAnjbDq1n8YzsQ');
+client.login('[KEY_HIDDEN]');
 
 //Start up
 client.once('ready', () => {
